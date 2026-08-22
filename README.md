@@ -26,8 +26,8 @@ Instead of relying on downstream manual calculations, financial ratios are compu
 
 1. **Net Profit Margin (%)**:
    $$\text{Net Profit Margin} = \left( \frac{\text{Net Income}}{\text{Revenue}} \right) \times 100$$
-2. **R&D Intensity Ratio (%)**:
-   $$\text{R\&D Ratio} = \left( \frac{\text{R\&D Expenses}}{\text{Revenue}} \right) \times 100$$
+2. **R and D Intensity Ratio (%)**:
+   $$\text{RD Ratio} = \left( \frac{\text{RD Expenses}}{\text{Revenue}} \right) \times 100$$
 
 ---
 
