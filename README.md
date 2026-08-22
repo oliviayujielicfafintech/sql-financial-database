@@ -35,7 +35,7 @@ Instead of relying on downstream manual calculations, financial ratios are compu
 
 The SQL engine applies a strict quantitative filter to isolate high-quality growth equities:
 * **Revenue YoY Growth Threshold:** $> +10.0\%$
-* **Profitability Gate:** $\text{Net Income} > 0$
+* **Profitability Gate:** $\text{Net Income} > 0$ 
 
 ```sql
 SELECT 
