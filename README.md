@@ -17,7 +17,9 @@ The pipeline ingests raw income statement data (Revenue, Net Income, R&D Expense
 * **Database Engine:** SQLite3
 * **Language & Analysis:** Python, Pandas
 * **SQL Techniques Implemented:** Dynamic Schema Creation, Aggregations, Conditional Filtering (`WHERE`), Computed Columns (`ROUND`, Arithmetic Calculations), Sorting (`ORDER BY`).
+## 📊 Institutional Analytics Dashboard
 
+![Financial Dashboard](dashboard.png)
 ---
 
 ## 🧮 Computed Financial Metrics (SQL Level)
